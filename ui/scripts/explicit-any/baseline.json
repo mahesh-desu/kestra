@@ -158,7 +158,7 @@
   "src/components/flows/Flows.vue": 16,
   "src/components/flows/FlowsSearch.vue": 5,
   "src/components/flows/SourceSearchPreview.vue": 1,
-  "src/components/flows/TaskEdit.vue": 10,
+  "src/components/flows/TaskEdit.vue": 9,
   "src/components/flows/TaskEditPanes.vue": 1,
   "src/components/flows/TriggerAvatar.vue": 4,
   "src/components/flows/TriggerVars.vue": 2,
